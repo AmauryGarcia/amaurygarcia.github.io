@@ -146,11 +146,12 @@ h2 {
 
 .projects__container {
     width: 100%;
-    margin: auto;
     display: flex;
     flex-wrap: wrap;
+    align-items: center;
     justify-content: center;
     gap: 16px;
+    padding: 0 16px;
 }
 
 .projects__example {
@@ -158,10 +159,6 @@ h2 {
     place-content: center;
     width: 460px;
     height: 600px;
-}
-
-.projects__img img {
-    width: auto;
 }
 
 .projects__img:hover {
@@ -226,7 +223,7 @@ h2 {
 #project_2 {
     display: grid;
     margin: auto;
-    width: auto;
+    width: 280px;
     height: 300px;
 }
 
@@ -252,7 +249,7 @@ h2 {
 #project_4 {
     display: grid;
     margin: auto;
-    width: auto;
+    width: 320px;
     height: 300px;
 }
 
