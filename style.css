@@ -223,14 +223,14 @@ h2 {
 #project_2 {
     display: grid;
     margin: auto;
-    width: 280px;
+    width: 300px;
     height: 300px;
 }
 
-.climate {
+.expense {
     grid-column: 1/2;
     border-radius: 20px;
-    background-color: #0099ff;
+    background-color: #0c5aea;
 }
 
 #project_3 {
