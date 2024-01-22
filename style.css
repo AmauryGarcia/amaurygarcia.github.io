@@ -240,17 +240,21 @@ h2 {
     margin: auto;
 }
 
-.movie {
+.products {
     grid-column: 2/3;
-    background-color: #8a2be2;
+    background-color: #3dc2ff;
     border-radius: 20px;
 }
 
 #project_4 {
     display: grid;
     margin: auto;
-    width: 320px;
+    width: 360px;
     height: 300px;
+}
+
+.projects__img #project_4 {
+    margin-top: -2rem;
 }
 
 /* Conct */
