@@ -192,6 +192,10 @@ h2 {
     padding: 0 12px 5px 12px;
 }
 
+.technology__imgs {
+    display: flex;
+}
+
 .content__links {
     padding-left: 2rem;
 }
