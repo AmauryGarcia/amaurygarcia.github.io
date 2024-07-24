@@ -27,6 +27,10 @@ h2 {
     margin: 16px 0;
 }
 
+#gray-color {
+    color: #5b5b5b;
+}
+
 .components {
     display: flex;
     align-items: center;
